@@ -1,0 +1,19 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# Virtualenv
+.venv/
+venv/
+
+# macOS
+.DS_Store
+
+# Local tooling scratch
+.claude/settings.local.json
+.superpowers/
